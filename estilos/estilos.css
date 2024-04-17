@@ -1,0 +1,54 @@
+header {
+    border: 40px solid rgba(93, 33, 161, 0.767);
+    padding: 25px;
+}
+div{
+    display: inline;
+}
+
+
+
+imagen {
+    display: inline;
+    width: 50px;
+    
+}
+.calaka{
+    
+    width:250px;
+    height: 150px;
+
+}
+.ref{
+    border: 1px color purple;
+    margin-left: 800px;
+}
+
+ref,a,i{
+    color: darkmagenta;
+    font-family: monospace;
+    font-size: larger;
+}
+
+.search-input-box input{
+    width: 10%;
+    outline: 1px;
+    border-radius: 20px;
+    height: 45px;
+    padding: 0 35px 0 15px;
+}
+
+
+
+lupa material-icons{
+    position: absolute;
+    top: 15px;
+    right: 25px;
+   font-size: 30px;
+    cursor: pointer;
+    color: blueviolet;
+   
+
+
+
+}
